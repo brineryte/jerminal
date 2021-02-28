@@ -1,0 +1,142 @@
+A: LinkTextLocator("Skiptocontent") | ClassLocator("px-2 py-4 color-bg-info-inverse color-text-white show-on-focus js-skip-to-content") | HrefLocator("https://github.com/brineryte/locator-generator#start-of-content") |
+A: LinkTextLocator("") | ClassLocator("mr-4") | HrefLocator("https://github.com/") |
+A: LinkTextLocator("Sign up") | ClassLocator("d-inline-block d-lg-none f5 color-text-white no-underline border color-border-tertiary rounded-2 px-2 py-1 mr-3 mr-sm-5") | HrefLocator("https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo") |
+BUTTON: ClassLocator("btn-link d-lg-none mt-1 js-details-target") |
+BUTTON: ClassLocator("btn-link js-details-target") |
+A: LinkTextLocator("Features→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--primary no-underline h5 Bump-link--hover") | HrefLocator("https://github.com/features") |
+A: LinkTextLocator("Mobile→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/mobile") |
+A: LinkTextLocator("Actions→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/features/actions") |
+A: LinkTextLocator("Codespaces→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/features/codespaces") |
+A: LinkTextLocator("Packages→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/features/packages") |
+A: LinkTextLocator("Security→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/features/security") |
+A: LinkTextLocator("Codereview→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/features/code-review/") |
+A: LinkTextLocator("Projectmanagement→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/features/project-management/") |
+A: LinkTextLocator("Integrations→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/features/integrations") |
+A: LinkTextLocator("GitHubSponsors→") | ClassLocator("py-2 lh-condensed-ultra d-block no-underline Link--primary no-underline h5 Bump-link--hover") | HrefLocator("https://github.com/sponsors") |
+A: LinkTextLocator("Customerstories→") | ClassLocator("py-2 lh-condensed-ultra d-block no-underline Link--primary no-underline h5 Bump-link--hover") | HrefLocator("https://github.com/customer-stories") |
+A: LinkTextLocator("Security→") | ClassLocator("py-2 lh-condensed-ultra d-block no-underline Link--primary no-underline h5 Bump-link--hover") | HrefLocator("https://github.com/security") |
+A: LinkTextLocator("Team") | ClassLocator("HeaderMenu-link no-underline py-3 d-block d-lg-inline-block") | HrefLocator("https://github.com/team") |
+A: LinkTextLocator("Enterprise") | ClassLocator("HeaderMenu-link no-underline py-3 d-block d-lg-inline-block") | HrefLocator("https://github.com/enterprise") |
+A: LinkTextLocator("ExploreGitHub→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--primary no-underline h5 Bump-link--hover") | HrefLocator("https://github.com/explore") |
+A: LinkTextLocator("Topics→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/topics") |
+A: LinkTextLocator("Collections→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/collections") |
+A: LinkTextLocator("Trending→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/trending") |
+A: LinkTextLocator("LearningLab→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://lab.github.com/") |
+A: LinkTextLocator("Opensourceguides→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://opensource.guide/") |
+A: LinkTextLocator("TheReadMEProject→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/readme") |
+A: LinkTextLocator("Events→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/events") |
+A: LinkTextLocator("Communityforum→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.community/") |
+A: LinkTextLocator("GitHubEducation→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://education.github.com/") |
+A: LinkTextLocator("GitHubStarsprogram→") | ClassLocator("py-2 pb-0 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://stars.github.com/") |
+A: LinkTextLocator("Marketplace") | ClassLocator("HeaderMenu-link no-underline py-3 d-block d-lg-inline-block") | HrefLocator("https://github.com/marketplace") |
+A: LinkTextLocator("Plans→") | ClassLocator("pb-2 lh-condensed-ultra d-block Link--primary no-underline h5 Bump-link--hover") | HrefLocator("https://github.com/pricing") |
+A: LinkTextLocator("Compareplans→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://github.com/pricing#feature-comparison") |
+A: LinkTextLocator("ContactSales→") | ClassLocator("py-2 lh-condensed-ultra d-block Link--secondary no-underline f5 Bump-link--hover") | HrefLocator("https://enterprise.github.com/contact") |
+A: LinkTextLocator("Nonprofit→") | ClassLocator("py-2 lh-condensed-ultra d-block no-underline Link--primary no-underline h5 Bump-link--hover") | HrefLocator("https://github.com/nonprofit") |
+A: LinkTextLocator("Education→") | ClassLocator("py-2 pb-0 lh-condensed-ultra d-block no-underline Link--primary no-underline h5 Bump-link--hover") | HrefLocator("https://education.github.com/") |
+INPUT: ClassLocator("form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable") |
+INPUT: ClassLocator("js-data-jump-to-suggestions-path-csrf") |
+INPUT: ClassLocator("js-site-search-type-field") |
+A: LinkTextLocator("InthisrepositoryAllGitHub↵Jumpto↵") | ClassLocator("no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2") | HrefLocator("https://github.com/brineryte/locator-generator") |
+A: LinkTextLocator("InthisrepositoryAllGitHub↵Jumpto↵") | ClassLocator("no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2") | HrefLocator("https://github.com/brineryte/locator-generator") |
+A: LinkTextLocator("InthisuserAllGitHub↵Jumpto↵") | ClassLocator("no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2") | HrefLocator("https://github.com/brineryte/locator-generator") |
+A: LinkTextLocator("InthisrepositoryAllGitHub↵Jumpto↵") | ClassLocator("no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2") | HrefLocator("https://github.com/brineryte/locator-generator") |
+A: LinkTextLocator("Signin") | ClassLocator("HeaderMenu-link no-underline mr-3") | HrefLocator("https://github.com/login?return_to=%2Fbrineryte%2Flocator-generator") |
+A: LinkTextLocator("Signup") | ClassLocator("HeaderMenu-link d-inline-block no-underline border color-border-tertiary rounded-1 px-2 py-1") | HrefLocator("https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=brineryte%2Flocator-generator") |
+A: LinkTextLocator("brineryte") | ClassLocator("url fn") | HrefLocator("https://github.com/brineryte") |
+A: LinkTextLocator("locator-generator") | HrefLocator("https://github.com/brineryte/locator-generator") |
+A: LinkTextLocator("Notifications") | ClassLocator("tooltipped tooltipped-s btn btn-sm rounded-right-0") | HrefLocator("https://github.com/login?return_to=%2Fbrineryte%2Flocator-generator") |
+A: LinkTextLocator("Star") | ClassLocator("btn btn-sm btn-with-count  tooltipped tooltipped-s") | HrefLocator("https://github.com/login?return_to=%2Fbrineryte%2Flocator-generator") |
+A: LinkTextLocator("0") | ClassLocator("social-count js-social-count") | HrefLocator("https://github.com/brineryte/locator-generator/stargazers") |
+A: LinkTextLocator("Fork") | ClassLocator("btn btn-sm btn-with-count tooltipped tooltipped-s") | HrefLocator("https://github.com/login?return_to=%2Fbrineryte%2Flocator-generator") |
+A: LinkTextLocator("0") | ClassLocator("social-count") | HrefLocator("https://github.com/brineryte/locator-generator/network/members") |
+A: LinkTextLocator("0stars") | ClassLocator("Link--secondary no-underline mr-3") | HrefLocator("https://github.com/brineryte/locator-generator/stargazers") |
+A: LinkTextLocator("0forks") | ClassLocator("Link--secondary no-underline") | HrefLocator("https://github.com/brineryte/locator-generator/network/members") |
+A: LinkTextLocator("Star") | ClassLocator("btn btn-sm  btn-block tooltipped tooltipped-s") | HrefLocator("https://github.com/login?return_to=%2Fbrineryte%2Flocator-generator") |
+A: LinkTextLocator("Notifications") | ClassLocator("tooltipped tooltipped-s btn btn-sm btn-block") | HrefLocator("https://github.com/login?return_to=%2Fbrineryte%2Flocator-generator") |
+A: LinkTextLocator("Code") | ClassLocator("js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item") | HrefLocator("https://github.com/brineryte/locator-generator") |
+A: LinkTextLocator("Issues0") | ClassLocator("js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item") | HrefLocator("https://github.com/brineryte/locator-generator/issues") |
+A: LinkTextLocator("Pullrequests0") | ClassLocator("js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item") | HrefLocator("https://github.com/brineryte/locator-generator/pulls") |
+A: LinkTextLocator("Actions") | ClassLocator("js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item") | HrefLocator("https://github.com/brineryte/locator-generator/actions") |
+A: LinkTextLocator("Projects0") | ClassLocator("js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item") | HrefLocator("https://github.com/brineryte/locator-generator/projects") |
+A: LinkTextLocator("Security") | ClassLocator("js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item") | HrefLocator("https://github.com/brineryte/locator-generator/security") |
+A: LinkTextLocator("Insights") | ClassLocator("js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item") | HrefLocator("https://github.com/brineryte/locator-generator/pulse") |
+A: LinkTextLocator("Code") | ClassLocator("js-selected-navigation-item selected dropdown-item") | HrefLocator("https://github.com/brineryte/locator-generator") |
+A: LinkTextLocator("Issues") | ClassLocator("js-selected-navigation-item dropdown-item") | HrefLocator("https://github.com/brineryte/locator-generator/issues") |
+A: LinkTextLocator("Pullrequests") | ClassLocator("js-selected-navigation-item dropdown-item") | HrefLocator("https://github.com/brineryte/locator-generator/pulls") |
+A: LinkTextLocator("Actions") | ClassLocator("js-selected-navigation-item dropdown-item") | HrefLocator("https://github.com/brineryte/locator-generator/actions") |
+A: LinkTextLocator("Projects") | ClassLocator("js-selected-navigation-item dropdown-item") | HrefLocator("https://github.com/brineryte/locator-generator/projects") |
+A: LinkTextLocator("Security") | ClassLocator("js-selected-navigation-item dropdown-item") | HrefLocator("https://github.com/brineryte/locator-generator/security") |
+A: LinkTextLocator("Insights") | ClassLocator("js-selected-navigation-item dropdown-item") | HrefLocator("https://github.com/brineryte/locator-generator/pulse") |
+BUTTON: ClassLocator("SelectMenu-closeButton") |
+INPUT: Locator("context-commitish-filter-field") | ClassLocator("SelectMenu-input form-control") |
+BUTTON: ClassLocator("SelectMenu-tab") |
+BUTTON: ClassLocator("SelectMenu-tab") |
+A: LinkTextLocator("Viewallbranches") | HrefLocator("https://github.com/brineryte/locator-generator/branches") |
+A: LinkTextLocator("Viewalltags") | HrefLocator("https://github.com/brineryte/locator-generator/tags") |
+A: LinkTextLocator("1branch") | ClassLocator("Link--primary no-underline") | HrefLocator("https://github.com/brineryte/locator-generator/branches") |
+A: LinkTextLocator("0tags") | ClassLocator("ml-3 Link--primary no-underline") | HrefLocator("https://github.com/brineryte/locator-generator/tags") |
+A: LinkTextLocator("Gotofile") | ClassLocator("btn ml-2") | HrefLocator("https://github.com/brineryte/locator-generator/find/main") |
+A: LinkTextLocator("") | ClassLocator("Link--muted float-right tooltipped tooltipped-s") | HrefLocator("https://docs.github.com/articles/which-remote-url-should-i-use") |
+
+BUTTON: ClassLocator("UnderlineNav-item lh-default f6 py-0 px-0 mr-2 position-relative") |
+BUTTON: ClassLocator("UnderlineNav-item lh-default f6 py-0 px-0 mr-2 position-relative") |
+INPUT: ClassLocator("form-control input-monospace input-sm color-bg-secondary") |
+INPUT: ClassLocator("form-control input-monospace input-sm color-bg-secondary") |
+A: LinkTextLocator("Learnmore") | HrefLocator("https://cli.github.com/") |
+A: LinkTextLocator("OpenwithGitHubDesktop") | ClassLocator("d-flex flex-items-center color-text-primary text-bold no-underline p-3") | HrefLocator("https://desktop.github.com/") |
+A: LinkTextLocator("DownloadZIP") | ClassLocator("d-flex flex-items-center color-text-primary text-bold no-underline p-3") | HrefLocator("https://github.com/brineryte/locator-generator/archive/main.zip") |
+A: LinkTextLocator("downloadGitHubDesktop") | HrefLocator("https://desktop.github.com/") |
+BUTTON: ClassLocator("btn-link") |
+A: LinkTextLocator("downloadGitHubDesktop") | HrefLocator("https://desktop.github.com/") |
+BUTTON: ClassLocator("btn-link") |
+A: LinkTextLocator("downloadXcode") | HrefLocator("https://developer.apple.com/xcode/") |
+BUTTON: ClassLocator("btn-link") |
+A: LinkTextLocator("downloadtheGitHubextensionforVisualStudio") | HrefLocator("https://visualstudio.github.com/") |
+BUTTON: ClassLocator("btn-link") |
+A: LinkTextLocator("") | ClassLocator("avatar avatar-user") | HrefLocator("https://github.com/brineryte") |
+A: LinkTextLocator("brineryte") | ClassLocator("commit-author user-mention") | HrefLocator("https://github.com/brineryte/locator-generator/commits?author=brineryte") |
+A: LinkTextLocator("UpdateREADME.md") | ClassLocator("Link--primary") | HrefLocator("https://github.com/brineryte/locator-generator/commit/50c57cd5a814fb8f88b04144efd9c9762bd4c89b") |
+BUTTON: ClassLocator("hx_bg-black-fade-15 color-text-primary ellipsis-expander js-details-target") |
+A: LinkTextLocator("50c57cd") | ClassLocator("f6 Link--secondary text-mono ml-2 d-none d-lg-inline") | HrefLocator("https://github.com/brineryte/locator-generator/commit/50c57cd5a814fb8f88b04144efd9c9762bd4c89b") |
+A: LinkTextLocator("onJan22") | ClassLocator("Link--secondary ml-2") | HrefLocator("https://github.com/brineryte/locator-generator/commit/50c57cd5a814fb8f88b04144efd9c9762bd4c89b") |
+A: LinkTextLocator("UpdateREADME.md") | ClassLocator("Link--primary text-bold") | HrefLocator("https://github.com/brineryte/locator-generator/commit/50c57cd5a814fb8f88b04144efd9c9762bd4c89b") |
+A: LinkTextLocator("7commits") | ClassLocator("pl-3 pr-3 py-3 p-md-0 mt-n3 mb-n3 mr-n3 m-md-0 Link--primary no-underline no-wrap") | HrefLocator("https://github.com/brineryte/locator-generator/commits/main") |
+A: LinkTextLocator("Permalink") | ClassLocator("d-none js-permalink-shortcut") | HrefLocator("https://github.com/brineryte/locator-generator/tree/50c57cd5a814fb8f88b04144efd9c9762bd4c89b") |
+A: LinkTextLocator("assets") | ClassLocator("js-navigation-open link-gray-dark") | HrefLocator("https://github.com/brineryte/locator-generator/tree/main/assets") |
+A: LinkTextLocator("thatescalatedquickly-thisisnowachromeextension") | ClassLocator("Link--secondary") | HrefLocator("https://github.com/brineryte/locator-generator/commit/f56ded68f328deb1acfecdbb275da3cde1855546") |
+A: LinkTextLocator("js") | ClassLocator("js-navigation-open link-gray-dark") | HrefLocator("https://github.com/brineryte/locator-generator/tree/main/js") |
+A: LinkTextLocator("finishedupv1") | ClassLocator("Link--secondary") | HrefLocator("https://github.com/brineryte/locator-generator/commit/c35f328fa76e818b8276ede9029ee59fccfb11e3") |
+A: LinkTextLocator("README.md") | ClassLocator("js-navigation-open link-gray-dark") | HrefLocator("https://github.com/brineryte/locator-generator/blob/main/README.md") |
+A: LinkTextLocator("UpdateREADME.md") | ClassLocator("Link--secondary") | HrefLocator("https://github.com/brineryte/locator-generator/commit/50c57cd5a814fb8f88b04144efd9c9762bd4c89b") |
+A: LinkTextLocator("manifest.json") | ClassLocator("js-navigation-open link-gray-dark") | HrefLocator("https://github.com/brineryte/locator-generator/blob/main/manifest.json") |
+A: LinkTextLocator("thatescalatedquickly-thisisnowachromeextension") | ClassLocator("Link--secondary") | HrefLocator("https://github.com/brineryte/locator-generator/commit/f56ded68f328deb1acfecdbb275da3cde1855546") |
+A: LinkTextLocator("popup.html") | ClassLocator("js-navigation-open link-gray-dark") | HrefLocator("https://github.com/brineryte/locator-generator/blob/main/popup.html") |
+A: LinkTextLocator("finishedupv1") | ClassLocator("Link--secondary") | HrefLocator("https://github.com/brineryte/locator-generator/commit/c35f328fa76e818b8276ede9029ee59fccfb11e3") |
+BUTTON: ClassLocator("d-block btn-link js-details-target width-full px-3 py-2") |
+A: Locator("user-content-locator-generator-version-1") | ClassLocator("anchor") | HrefLocator("https://github.com/brineryte/locator-generator#locator-generator-version-1") |
+A: Locator("user-content-install-the-extension") | ClassLocator("anchor") | HrefLocator("https://github.com/brineryte/locator-generator#install-the-extension") |
+A: LinkTextLocator("javascript") | ClassLocator("topic-tag topic-tag-link ") | HrefLocator("https://github.com/topics/javascript") |
+A: LinkTextLocator("chrome-extension") | ClassLocator("topic-tag topic-tag-link ") | HrefLocator("https://github.com/topics/chrome-extension") |
+A: LinkTextLocator("test-automation") | ClassLocator("topic-tag topic-tag-link ") | HrefLocator("https://github.com/topics/test-automation") |
+A: LinkTextLocator("selenium-webdriver") | ClassLocator("topic-tag topic-tag-link ") | HrefLocator("https://github.com/topics/selenium-webdriver") |
+A: LinkTextLocator("Readme") | ClassLocator("Link--muted") | HrefLocator("https://github.com/brineryte/locator-generator#readme") |
+A: LinkTextLocator("Releases") | ClassLocator("Link--primary no-underline ") | HrefLocator("https://github.com/brineryte/locator-generator/releases") |
+A: LinkTextLocator("Packages0") | ClassLocator("Link--primary no-underline ") | HrefLocator("https://github.com/users/brineryte/packages?repo_name=locator-generator") |
+A: LinkTextLocator("JavaScript85.1%") | ClassLocator("d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3") | HrefLocator("https://github.com/brineryte/locator-generator/search?l=javascript") |
+A: LinkTextLocator("HTML14.9%") | ClassLocator("d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small mr-3") | HrefLocator("https://github.com/brineryte/locator-generator/search?l=html") |
+A: LinkTextLocator("Terms") | HrefLocator("https://github.com/site/terms") |
+A: LinkTextLocator("Privacy") | HrefLocator("https://github.com/site/privacy") |
+A: LinkTextLocator("Security") | HrefLocator("https://github.com/security") |
+A: LinkTextLocator("Status") | HrefLocator("https://www.githubstatus.com/") |
+A: LinkTextLocator("Docs") | HrefLocator("https://docs.github.com/") |
+A: LinkTextLocator("") | ClassLocator("footer-octicon d-none d-lg-block mx-lg-4") | HrefLocator("https://github.com/") |
+A: LinkTextLocator("ContactGitHub") | ClassLocator("Link--secondary") | HrefLocator("https://support.github.com/") |
+A: LinkTextLocator("Pricing") | HrefLocator("https://github.com/pricing") |
+A: LinkTextLocator("API") | HrefLocator("https://docs.github.com/") |
+A: LinkTextLocator("Training") | HrefLocator("https://services.github.com/") |
+A: LinkTextLocator("Blog") | HrefLocator("https://github.blog/") |
+A: LinkTextLocator("About") | HrefLocator("https://github.com/about") |
+BUTTON: ClassLocator("flash-close js-ajax-error-dismiss") |
+A: LinkTextLocator("Reload") | HrefLocator("https://github.com/brineryte/locator-generator") |
+A: LinkTextLocator("Reload") | HrefLocator("https://github.com/brineryte/locator-generator") |

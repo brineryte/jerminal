@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/jourminal.iml" filepath="$PROJECT_DIR$/.idea/jourminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jerminal.iml" filepath="$PROJECT_DIR$/.idea/jerminal.iml" />
     </modules>
   </component>
 </project>
