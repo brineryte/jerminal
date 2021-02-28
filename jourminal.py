@@ -1,25 +1,9 @@
-import sys
-import colorama
-import yaml
 import pathlib
+import sys
 
-DIR = "journals/"
-COLOR_ERROR = colorama.Fore.RED
-MENU_COLOR = colorama.Fore.CYAN
-WELCOME_COLOR = colorama.Fore.GREEN
-USER_INPUT_COLOR = colorama.Fore.YELLOW
+from consts import *
 
-ASCII_JOURNAL = r"""
-      __...--~~~~~-._   _.-~~~~~--...__
-    //               `V'               \\
-   //                 |                 \\
-  //__...--~~~~~~-._  |  _.-~~~~~~--...__\\
- //__.....----~~~~._\ | /_.~~~~----.....__\\
-====================\\|//====================
-                    `---`
-"""
 
-# look for settings file - if doesn't exist, prompt
 def get_journals_dir():
     """
     Get the working journals directory from settings
@@ -31,17 +15,6 @@ def get_journals_dir():
     return journal_dir
 
 
-# ask for file directory in which to store journals
-
-# check that it exists, if not, reprompt
-
-
-# show menu
-# What would you like to do? (options could be in a list)
-# 1 - Create new journal
-# 2 - Journal #1
-# 3 - Journal #2
-# etc
 def show_main_menu(journals_dir):
     """
     Show the main menu
@@ -89,9 +62,6 @@ def get_main_menu_options(journals_dir):
         "Create new journal"]
 
 
-# New Journal
-# enter name of journal (check for name conflicts)
-#
 def create_journal(journal_dir):
     """
     Prompts user for journal name and then creates new .txt file
@@ -127,10 +97,6 @@ def make_selection(options, selection, journal_dir):
         show_journal_menu(journal_dir / selection)
 
 
-# Journal Menu
-# 1 - New Entry
-# 2 - List Entries - Most Recent
-# 3 - List Entries - Oldest
 def show_journal_menu(journal_dir):
     """
     Lists journal options
@@ -150,12 +116,15 @@ def show_journal_menu(journal_dir):
 # 1 - Date - First 25 chars
 # 2 - Date - First 25 chars
 # etc...
-def show_entries_menu():
+def show_entries_menu(journal, oldest):
     """
     Lists journal entries
     :return:
     """
+    if oldest:
+        pass
     pass
+
 
 def show_welcome():
     """
